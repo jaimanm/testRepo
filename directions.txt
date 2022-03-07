@@ -13,4 +13,3 @@
 9. Open vscode, make sure python extension is installed
 10. Use commands to choose python interpreter from anaconda
 11. Open or create a notebook in the selected folder
-12. 
