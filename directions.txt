@@ -1,1 +1,14 @@
 1. Install vscode
+--- setup github ---
+2. Install git
+3. Launch vscode & open folder
+    3a. in vscode settings, make sure "git enabled" is on
+4. Login to github, copy repo url
+5. In vscode, use command "add remote repo" and paste url
+6. Make changes - stage - commit (enter commit name) - push changes
+    6a. Observe changes on github
+--- setup jupyter notebook ---
+7. Install anaconda
+8. Open anaconda prompt, run "conda install ipykernel"
+9. Open vscode, make sure python extension is installed
+10. Use commands to choose python interpreter from anaconda
