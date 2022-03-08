@@ -9,7 +9,11 @@
     6a. Observe changes on github
 --- setup jupyter notebook ---
 7. Install anaconda
-8. Open anaconda prompt, run "conda install ipykernel"
+8. Open anaconda prompt, run the following:
+    "conda create --name vscode"
+    "conda install numpy"
+    "conda install pandas"
+    "conda install ipykernel"
 9. Open vscode, make sure python extension is installed
 10. Use commands to choose python interpreter from anaconda
-11. Open or create a notebook in the selected folder
+11. Ready to go
